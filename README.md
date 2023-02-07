@@ -11,3 +11,28 @@ We have a working application, but not a web application. The game is playable i
  6. Need to write code to encrypt the passwords and security questions.7
  7. Need to prevent SQL Injection.
 
+## What each team member has contributed and will be working on:
+1. Zhixin Li
+ a. Contribute to assignment 1, parts A, and part of part B.
+ b. Assignments:
+  i. Help to make the application into a web application. 
+  ii. Creating meteor template importing to GitHub. 
+2. Kai He
+ a. Contribute to assignment 1, parts A, and part of part B. Fixing it to complete sentence. 
+ b. Assignments:
+  i. Updating the README file in GitHub. 
+  ii. Help to make the application into a web application. 
+  iii. I will create the code to ask for two security questions and passwords. 
+3. Gregory Wilder
+ a. Done so far: Creation of the source code of the game. Contributed to assignment 1, including edits. 
+ b. Assignments: 
+  i. Uploading the game source code to GitHub. 
+  ii. Help to make the application into a web application. 
+  iii. Create an MYSQL database and provide credentials to the team.
+  iiii. Need to prevent SQL Injection.
+4. Malia Liu
+ a. Contribute to assignment 1, part A, and part of part B. Fixing and providing a diagram. 
+ b. Assignments: 
+  i. Help to make the application into a web application.
+
+
