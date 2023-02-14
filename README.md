@@ -4,7 +4,7 @@ We have a working application, but not a web application. The game is playable i
 
 ## What is pending:
  1. Need to make the application into a web application using meteor react.
- 2. Need to create a MYSQL database.
+ 2. Need to create a Mongo database.
  3. Link database by using meteor react
  4. Need to write code to make it secure. 
  5. Need to write code to create accounts, including a username, a password, and two security questions to reset the password.
@@ -29,7 +29,7 @@ We have a working application, but not a web application. The game is playable i
  b. Assignments: 
   i. Uploading the game source code to GitHub. 
   ii. Help to make the application into a web application. 
-  iii. Create an MYSQL database and provide credentials to the team.
+  iii. Create an Mongo database and provide credentials to the team.
   iiii. Need to prevent SQL Injection.
 4. Malia Liu
  a. Contribute to assignment 1, part A, and part of part B. Fixing and providing a diagram. 
