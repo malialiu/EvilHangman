@@ -9,7 +9,7 @@ We have a working application, but not a web application. The game is playable i
  4. Need to write code to make it secure. 
  5. Need to write code to create accounts, including a username, a password, and two security questions to reset the password.
  6. Need to ask users the number of guesses and size of the word.
- 7. Need to write code to encrypt the passwords and security questions.7
+ 7. Need to write code to encrypt the passwords and security questions.
  8. Need to prevent MongoDB Injection.
 
 ## What each team member has contributed and will be working on:
